@@ -1,9 +1,10 @@
 {
   "name": "now-ui-kit-react",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "homepage": "https://eastlondonsupplementcompany.github.io/eastlondonsupplementcompany",
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "moment": "2.24.0",
     "node-sass": "4.12.0",
     "nouislider": "14.0.2",
@@ -22,11 +23,7 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
-    "compile-sass": "node-sass src/assets/scss/now-ui-kit.scss src/assets/css/now-ui-kit.css",
-    "minify-sass": "node-sass src/assets/scss/now-ui-kit.scss src/assets/css/now-ui-kit.min.css --output-style compressed",
-    "map-sass": "node-sass src/assets/scss/now-ui-kit.scss src/assets/css/now-ui-kit.css --source-map true"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
