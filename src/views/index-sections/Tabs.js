@@ -26,7 +26,11 @@ function Tabs() {
         <Container>
           <Row>
             <Col className="ml-auto mr-auto" md="10" xl="6">
+<<<<<<< HEAD
               <p className="category">Pea protein</p>
+=======
+              <p className="category">Tabs with Icons on Card</p>
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
               <Card>
                 <CardHeader>
                   <Nav className="justify-content-center" role="tablist" tabs>
@@ -39,8 +43,13 @@ function Tabs() {
                           setIconPills("1");
                         }}
                       >
+<<<<<<< HEAD
                         <i className="now-ui-icons shopping_shop"></i>
                         Overview
+=======
+                        <i className="now-ui-icons objects_umbrella-13"></i>
+                        Home
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -52,8 +61,13 @@ function Tabs() {
                           setIconPills("2");
                         }}
                       >
+<<<<<<< HEAD
                         <i className="now-ui-icons objects_umbrella-13"></i>
                         Nutrition
+=======
+                        <i className="now-ui-icons shopping_cart-simple"></i>
+                        Profile
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -65,8 +79,13 @@ function Tabs() {
                           setIconPills("3");
                         }}
                       >
+<<<<<<< HEAD
                         <i className="now-ui-icons shopping_cart-simple"></i>
                         Extras
+=======
+                        <i className="now-ui-icons shopping_shop"></i>
+                        Messages
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -79,7 +98,11 @@ function Tabs() {
                         }}
                       >
                         <i className="now-ui-icons ui-2_settings-90"></i>
+<<<<<<< HEAD
                         Research
+=======
+                        Settings
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                   </Nav>
@@ -139,10 +162,22 @@ function Tabs() {
               </Card>
             </Col>
             <Col className="ml-auto mr-auto" md="10" xl="6">
+<<<<<<< HEAD
               <p className="category">Brown rice protein</p>
               <Card>
                 <CardHeader>
                 <Nav className="justify-content-center" role="tablist" tabs>
+=======
+              <p className="category">Tabs with Background on Card</p>
+              <Card>
+                <CardHeader>
+                  <Nav
+                    className="nav-tabs-neutral justify-content-center"
+                    data-background-color="blue"
+                    role="tablist"
+                    tabs
+                  >
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                     <NavItem>
                       <NavLink
                         className={pills === "1" ? "active" : ""}
@@ -152,8 +187,12 @@ function Tabs() {
                           setPills("1");
                         }}
                       >
+<<<<<<< HEAD
                       <i className="now-ui-icons shopping_shop"></i>
                       Overview
+=======
+                        Home
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -165,8 +204,12 @@ function Tabs() {
                           setPills("2");
                         }}
                       >
+<<<<<<< HEAD
                       <i className="now-ui-icons objects_umbrella-13"></i>
                         Nutrition
+=======
+                        Profile
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -178,8 +221,12 @@ function Tabs() {
                           setPills("3");
                         }}
                       >
+<<<<<<< HEAD
                       <i className="now-ui-icons shopping_cart-simple"></i>
                         Extras
+=======
+                        Messages
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                     <NavItem>
@@ -191,8 +238,12 @@ function Tabs() {
                           setPills("4");
                         }}
                       >
+<<<<<<< HEAD
                       <i className="now-ui-icons ui-2_settings-90"></i>
                         Research
+=======
+                        Settings
+>>>>>>> 1d89cafa2cb06650e31a3df83ff12417f16dd155
                       </NavLink>
                     </NavItem>
                   </Nav>
