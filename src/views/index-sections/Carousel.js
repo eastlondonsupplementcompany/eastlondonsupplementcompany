@@ -57,9 +57,10 @@ function CarouselSection() {
     <>
       <div className="section" id="carousel">
         <Container>
-          {/* <div className="title">
-            <h4>East London Supplement Company Media</h4>
-          </div> */}
+          <div className="title">
+            <h2 class="title">Products</h2>
+            <p>Our core product is a plant-based protein supplement built from pea and brown rice proteins.</p>
+          </div>
           <Row className="justify-content-center">
             <Col lg="8" md="12">
               <Carousel

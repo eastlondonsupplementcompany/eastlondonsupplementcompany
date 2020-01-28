@@ -109,16 +109,16 @@ function IndexNavbar() {
                   <p>Menu</p>
                 </DropdownToggle>
                 <DropdownMenu>
-                  <DropdownItem to="/index" tag={Link}>
-                    <i className="now-ui-icons business_chart-pie-36 mr-1"></i>
-                    All products
-                  </DropdownItem>
-                  <DropdownItem
-                    href="https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-index-navbar"
+                <DropdownItem to="/index" tag={Link}
+                    // href="https://demos.creative-tim.com/now-ui-kit-react/#/documentation/introduction?ref=nukr-index-navbar"
                     target="_blank"
                   >
                     <i className="now-ui-icons design_bullet-list-67 mr-1"></i>
                     About us
+                  </DropdownItem>
+                  <DropdownItem >
+                    <i className="now-ui-icons business_chart-pie-36 mr-1"></i>
+                    Products
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>

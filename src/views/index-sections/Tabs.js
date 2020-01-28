@@ -24,6 +24,7 @@ function Tabs() {
     <>
       <div className="section section-tabs">
         <Container>
+        <h2 class="title">Proteins</h2>
           <Row>
             <Col className="ml-auto mr-auto" md="10" xl="6">
               <p className="category">Pea protein</p>

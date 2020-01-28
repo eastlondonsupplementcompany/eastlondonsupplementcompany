@@ -26,7 +26,7 @@ class AboutUs extends React.Component {
                   </div>
                   </Col>
                 <Col md="12">
-                  <h2>About Us</h2>
+                  <h2 class="title">About Us</h2>
                   <p className="">
                         We are East London Supplement Company. We provide organic, vegan, GMO-free protein supplements to our customers at affordable prices.
                         Our goal is to improve the lives of our customers through nutrion and reduce the impact of mainstream supplement suppliers on the environment.
