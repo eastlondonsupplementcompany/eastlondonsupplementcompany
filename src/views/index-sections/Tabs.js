@@ -39,7 +39,7 @@ function Tabs() {
                           setIconPills("1");
                         }}
                       >
-                        <i className="now-ui-icons shopping_shop"></i>
+                        {/* <i className="now-ui-icons shopping_shop"></i> */}
                         Overview
                       </NavLink>
                     </NavItem>
@@ -52,7 +52,7 @@ function Tabs() {
                           setIconPills("2");
                         }}
                       >
-                        <i className="now-ui-icons objects_umbrella-13"></i>
+                        {/* <i className="now-ui-icons objects_umbrella-13"></i> */}
                         Nutrition
                       </NavLink>
                     </NavItem>
@@ -65,7 +65,7 @@ function Tabs() {
                           setIconPills("3");
                         }}
                       >
-                        <i className="now-ui-icons shopping_cart-simple"></i>
+                        {/* <i className="now-ui-icons shopping_cart-simple"></i> */}
                         Extras
                       </NavLink>
                     </NavItem>
@@ -78,7 +78,7 @@ function Tabs() {
                           setIconPills("4");
                         }}
                       >
-                        <i className="now-ui-icons ui-2_settings-90"></i>
+                        {/* <i className="now-ui-icons ui-2_settings-90"></i> */}
                         Research
                       </NavLink>
                     </NavItem>
@@ -152,7 +152,7 @@ function Tabs() {
                           setPills("1");
                         }}
                       >
-                      <i className="now-ui-icons shopping_shop"></i>
+                      {/* <i className="now-ui-icons shopping_shop"></i> */}
                       Overview
                       </NavLink>
                     </NavItem>
@@ -165,7 +165,7 @@ function Tabs() {
                           setPills("2");
                         }}
                       >
-                      <i className="now-ui-icons objects_umbrella-13"></i>
+                      {/* <i className="now-ui-icons objects_umbrella-13"></i> */}
                         Nutrition
                       </NavLink>
                     </NavItem>
@@ -178,7 +178,7 @@ function Tabs() {
                           setPills("3");
                         }}
                       >
-                      <i className="now-ui-icons shopping_cart-simple"></i>
+                      {/* <i className="now-ui-icons shopping_cart-simple"></i> */}
                         Extras
                       </NavLink>
                     </NavItem>
@@ -191,7 +191,7 @@ function Tabs() {
                           setPills("4");
                         }}
                       >
-                      <i className="now-ui-icons ui-2_settings-90"></i>
+                      {/* <i className="now-ui-icons ui-2_settings-90"></i> */}
                         Research
                       </NavLink>
                     </NavItem>
