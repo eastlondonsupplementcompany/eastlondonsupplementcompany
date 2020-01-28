@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/eastlondonsupplementcompany/static/css/main.cab69981.chunk.css",
+    "main.js": "/eastlondonsupplementcompany/static/js/main.456c9463.chunk.js",
+    "main.js.map": "/eastlondonsupplementcompany/static/js/main.456c9463.chunk.js.map",
+    "runtime-main.js": "/eastlondonsupplementcompany/static/js/runtime-main.d691c25a.js",
+    "runtime-main.js.map": "/eastlondonsupplementcompany/static/js/runtime-main.d691c25a.js.map",
+    "static/js/2.8ba40c20.chunk.js": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js",
+    "static/js/2.8ba40c20.chunk.js.map": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js.map",
+    "index.html": "/eastlondonsupplementcompany/index.html",
+    "precache-manifest.02d849d85ae758b8e000e72411315ce9.js": "/eastlondonsupplementcompany/precache-manifest.02d849d85ae758b8e000e72411315ce9.js",
+    "service-worker.js": "/eastlondonsupplementcompany/service-worker.js",
+    "static/css/main.cab69981.chunk.css.map": "/eastlondonsupplementcompany/static/css/main.cab69981.chunk.css.map",
+    "static/js/2.8ba40c20.chunk.js.LICENSE": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js.LICENSE",
+    "static/media/East London Supplement Company-logos_black.png": "/eastlondonsupplementcompany/static/media/East London Supplement Company-logos_black.62550425.png",
+    "static/media/East London Supplement Company-logos_white.png": "/eastlondonsupplementcompany/static/media/East London Supplement Company-logos_white.d8c0a253.png",
+    "static/media/bg1.jpg": "/eastlondonsupplementcompany/static/media/bg1.6b1983a2.jpg",
+    "static/media/bg11.jpg": "/eastlondonsupplementcompany/static/media/bg11.e643a6cf.jpg",
+    "static/media/bg3.jpg": "/eastlondonsupplementcompany/static/media/bg3.f807b37b.jpg",
+    "static/media/bg4.jpg": "/eastlondonsupplementcompany/static/media/bg4.4bff5d45.jpg",
+    "static/media/bg5.jpg": "/eastlondonsupplementcompany/static/media/bg5.056eb058.jpg",
+    "static/media/bg6.jpg": "/eastlondonsupplementcompany/static/media/bg6.d7d1aaf7.jpg",
+    "static/media/bg7.jpg": "/eastlondonsupplementcompany/static/media/bg7.607a4a36.jpg",
+    "static/media/bg8.jpg": "/eastlondonsupplementcompany/static/media/bg8.6737ce3b.jpg",
+    "static/media/blurred-image-1.jpg": "/eastlondonsupplementcompany/static/media/blurred-image-1.0e3525dc.jpg",
+    "static/media/header.jpg": "/eastlondonsupplementcompany/static/media/header.ffcc99c4.jpg",
+    "static/media/hero-image-1.png": "/eastlondonsupplementcompany/static/media/hero-image-1.a76c7b4c.png",
+    "static/media/hero-image-2.png": "/eastlondonsupplementcompany/static/media/hero-image-2.9616730d.png",
+    "static/media/hero-image-3.png": "/eastlondonsupplementcompany/static/media/hero-image-3.02cd0e2d.png",
+    "static/media/landing.jpg": "/eastlondonsupplementcompany/static/media/landing.f8fba454.jpg",
+    "static/media/login.jpg": "/eastlondonsupplementcompany/static/media/login.b2101951.jpg",
+    "static/media/nucleo-logo.svg": "/eastlondonsupplementcompany/static/media/nucleo-logo.92e7581a.svg",
+    "static/media/pea-protein-powder.jpg": "/eastlondonsupplementcompany/static/media/pea-protein-powder.1fb902c5.jpg",
+    "static/media/profile.jpg": "/eastlondonsupplementcompany/static/media/profile.225653f9.jpg",
+    "static/media/protein-powder.jpg": "/eastlondonsupplementcompany/static/media/protein-powder.eb69eb4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d691c25a.js",
+    "static/js/2.8ba40c20.chunk.js",
+    "static/css/main.cab69981.chunk.css",
+    "static/js/main.456c9463.chunk.js"
+  ]
+}
