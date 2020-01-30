@@ -38,8 +38,8 @@ function Index() {
         <div className="main">
           <AboutUs imageOne="East London Supplement Company-logos_black.png" /> {/*imageTwo="protein-powder.jpg" imageThree="pea-protein-powder.jpg"*/}
           {/* <Navbars /> */}
-          <Proteins />
           <Products />
+          <Proteins />
           <SignUp />
         </div>
         <DarkFooter />
