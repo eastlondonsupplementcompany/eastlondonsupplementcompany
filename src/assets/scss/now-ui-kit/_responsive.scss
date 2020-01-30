@@ -322,8 +322,9 @@
 
 @media screen and (max-width: 768px){
     .section-images{
-        height: 300px;
-        max-height: 300px;
+        // height: 300px;
+        // max-height: 300px;
+        padding: 0px;
 
         .hero-images-container{
             max-width: 380px;
