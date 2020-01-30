@@ -30,7 +30,7 @@ const items = [
   }
 ];
 
-function CarouselSection() {
+function Products() {
   const [activeIndex, setActiveIndex] = React.useState(0);
   const [animating, setAnimating] = React.useState(false);
   const onExiting = () => {
@@ -57,10 +57,17 @@ function CarouselSection() {
     <>
       <div className="section" id="carousel">
         <Container>
+          <Row>
           <div className="title">
             <h2 class="title">Products</h2>
-            <p>Our core product is a plant-based protein supplement built from pea and brown rice proteins.</p>
+            <p>Our products are plant-based protein supplements built from pea, brown rice and hemp proteins.</p>
           </div>
+          </Row>
+          <div>
+          <h4>Pea and rice protein blend 50:50</h4>
+          <p>
+            Our pea and brown rice protein blend offers 24g of protein per serving and mixes well with water, milk and milk alternatives.
+          </p>
           <Row className="justify-content-center">
             <Col lg="8" md="12">
               <Carousel
@@ -114,10 +121,75 @@ function CarouselSection() {
               </Carousel>
             </Col>
           </Row>
+          </div>
+        </Container>
+      </div>
+      <div className="section" id="carousel">
+        <Container>
+
+          <div>
+          <h4>Pea, rice and hemp protein blend 40:40:20</h4>
+          <p>
+            Our pea, brown rice and protein blend offers 21g of protein per serving and mixes well with water, milk and milk alternatives.
+          </p>
+          <Row className="justify-content-center">
+            <Col lg="8" md="12">
+              <Carousel
+                activeIndex={activeIndex}
+                next={next}
+                previous={previous}
+              >
+                <CarouselIndicators
+                  items={items}
+                  activeIndex={activeIndex}
+                  onClickHandler={goToIndex}
+                />
+                {items.map(item => {
+                  return (
+                    <CarouselItem
+                      onExiting={onExiting}
+                      onExited={onExited}
+                      key={item.src}
+                    >
+                      <img src={item.src} alt={item.altText} />
+                      <div className="carousel-caption d-none d-md-block">
+                        <h5>{item.caption}</h5>
+                      </div>
+                    </CarouselItem>
+                  );
+                })}
+                <a
+                  className="carousel-control-prev"
+                  data-slide="prev"
+                  href="#pablo"
+                  onClick={e => {
+                    e.preventDefault();
+                    previous();
+                  }}
+                  role="button"
+                >
+                  <i className="now-ui-icons arrows-1_minimal-left"></i>
+                </a>
+                <a
+                  className="carousel-control-next"
+                  data-slide="next"
+                  href="#pablo"
+                  onClick={e => {
+                    e.preventDefault();
+                    next();
+                  }}
+                  role="button"
+                >
+                  <i className="now-ui-icons arrows-1_minimal-right"></i>
+                </a>
+              </Carousel>
+            </Col>
+          </Row>
+          </div>
         </Container>
       </div>
     </>
   );
 }
 
-export default CarouselSection;
+export default Products;

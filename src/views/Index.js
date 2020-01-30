@@ -11,8 +11,8 @@ import DarkFooter from "components/Footers/DarkFooter.js";
 
 // sections for this page
 import AboutUs from "./index-sections/AboutUs.js";
-import Tabs from "./index-sections/Tabs.js";
-import Carousel from "./index-sections/Carousel.js";
+import Proteins from "./index-sections/Proteins.js";
+import Products from "./index-sections/Products.js";
 import SignUp from "./index-sections/SignUp.js";
 
 function Index() {
@@ -38,8 +38,8 @@ function Index() {
         <div className="main">
           <AboutUs imageOne="East London Supplement Company-logos_black.png" /> {/*imageTwo="protein-powder.jpg" imageThree="pea-protein-powder.jpg"*/}
           {/* <Navbars /> */}
-          <Tabs />
-          <Carousel />
+          <Proteins />
+          <Products />
           <SignUp />
         </div>
         <DarkFooter />

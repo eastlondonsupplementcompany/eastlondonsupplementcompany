@@ -4418,7 +4418,8 @@ img {
 
 .section-images {
   max-height: 670px;
-  height: 670px; }
+  height: 670px; 
+}
   .section-images .hero-images-container,
   .section-images .hero-images-container-1,
   .section-images .hero-images-container-2 {
@@ -5199,8 +5200,8 @@ img {
 
 @media screen and (max-width: 768px) {
   .section-images {
-    height: 300px;
-    max-height: 300px; }
+    padding: 10px;
+  }
     .section-images .hero-images-container {
       max-width: 380px; }
     .section-images .hero-images-container-1 {
