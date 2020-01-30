@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eastlondonsupplementcompany/static/css/main.7bb5e11a.chunk.css",
-    "main.js": "/eastlondonsupplementcompany/static/js/main.73c5a316.chunk.js",
-    "main.js.map": "/eastlondonsupplementcompany/static/js/main.73c5a316.chunk.js.map",
+    "main.css": "/eastlondonsupplementcompany/static/css/main.afea05ff.chunk.css",
+    "main.js": "/eastlondonsupplementcompany/static/js/main.a689adf9.chunk.js",
+    "main.js.map": "/eastlondonsupplementcompany/static/js/main.a689adf9.chunk.js.map",
     "runtime-main.js": "/eastlondonsupplementcompany/static/js/runtime-main.d691c25a.js",
     "runtime-main.js.map": "/eastlondonsupplementcompany/static/js/runtime-main.d691c25a.js.map",
     "static/js/2.8ba40c20.chunk.js": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js",
     "static/js/2.8ba40c20.chunk.js.map": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js.map",
     "index.html": "/eastlondonsupplementcompany/index.html",
-    "precache-manifest.9c080f56a4f19bb435a670f7a65e5747.js": "/eastlondonsupplementcompany/precache-manifest.9c080f56a4f19bb435a670f7a65e5747.js",
+    "precache-manifest.a5d64b83dd5c2a56a60cc3d22a20a26d.js": "/eastlondonsupplementcompany/precache-manifest.a5d64b83dd5c2a56a60cc3d22a20a26d.js",
     "service-worker.js": "/eastlondonsupplementcompany/service-worker.js",
-    "static/css/main.7bb5e11a.chunk.css.map": "/eastlondonsupplementcompany/static/css/main.7bb5e11a.chunk.css.map",
+    "static/css/main.afea05ff.chunk.css.map": "/eastlondonsupplementcompany/static/css/main.afea05ff.chunk.css.map",
     "static/js/2.8ba40c20.chunk.js.LICENSE": "/eastlondonsupplementcompany/static/js/2.8ba40c20.chunk.js.LICENSE",
     "static/media/East London Supplement Company-logos_black.png": "/eastlondonsupplementcompany/static/media/East London Supplement Company-logos_black.62550425.png",
     "static/media/East London Supplement Company-logos_white.png": "/eastlondonsupplementcompany/static/media/East London Supplement Company-logos_white.d8c0a253.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.d691c25a.js",
     "static/js/2.8ba40c20.chunk.js",
-    "static/css/main.7bb5e11a.chunk.css",
-    "static/js/main.73c5a316.chunk.js"
+    "static/css/main.afea05ff.chunk.css",
+    "static/js/main.a689adf9.chunk.js"
   ]
 }
