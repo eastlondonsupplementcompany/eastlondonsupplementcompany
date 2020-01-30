@@ -20,7 +20,7 @@ import {
 function Proteins() {
   const [iconPills, setIconPills] = React.useState("1");
   const [pills, setPills] = React.useState("1");
-  const [pills2, setPills2] = React.useState("2");
+  const [pills2, setPills2] = React.useState("1");
   return (
     <>
       <div className="section section-tabs">
