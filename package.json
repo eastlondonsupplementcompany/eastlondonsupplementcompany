@@ -2,7 +2,7 @@
   "name": "now-ui-kit-react",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://eastlondonsupplementcompany.co.uk",
+  "homepage": "https://eastlondonsupplementcompany.github.io/eastlondonsupplementcompany",
   "dependencies": {
     "moment": "2.24.0",
     "node-sass": "^4.13.1",
